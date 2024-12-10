@@ -50,7 +50,7 @@ body {
     align-items: center;
     justify-content: center;
     text-align: center;
-    height: 1100px;
+    height: 1300px;
 }
 
 #glownafabula {
@@ -59,7 +59,7 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
-  height: 1300px;
+  height: 1500px;
  margin-left: 150px;
  margin-right: 150px;
  box-shadow: 10px 10px 5px 32px rgb(77, 11, 11);;
